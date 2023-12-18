@@ -1,4 +1,6 @@
 Лабораторная работа №4. Тема №9. Бадрызлов Сергей ПИН-222. Изобразить в окне гармонические колебания точки вдоль некоторого горизонтального отрезка. Если длина отрезка равна q, то расстояние от точки до левого конца в момент времени t можно считать равным q(1 + cos(wt))/2, где w – некоторая константа. Предусмотреть поля для ввода указанных величин и кнопку для остановки и пуска процесса.
 ![image](https://github.com/KyouGOD/Laba4/assets/106447328/4e86daf5-4f51-45c6-827d-0f7f9082feb2)
-![java_ZLq7Y3bqWg](https://github.com/KyouGOD/Laba4/assets/106447328/cfdc8012-4cb7-4017-a6dd-48c0be0cc5f4)
-![java_Q8rT8JZ4Aa](https://github.com/KyouGOD/Laba4/assets/106447328/76828ab8-61bf-4f4c-a15d-9acfd5e95454)
+![java_HjMV54xXeZ](https://github.com/KyouGOD/Laba4/assets/106447328/779046fb-64f8-48b3-a180-09f76dd67df0)
+![java_oGTclI84i6](https://github.com/KyouGOD/Laba4/assets/106447328/9c389fcd-bebb-4f33-9f12-8c6d8c43bac0)
+
+
